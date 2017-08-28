@@ -3,6 +3,12 @@ body {
 	font-family: sans-serif;
 }
 
+h5 {
+	text-align: center;
+	font-style: italic;
+	color: #2e4056;
+}
+
 canvas {
 	background: #fff;
 	display: block;
@@ -45,15 +51,15 @@ ul li {
 }
 
 .red {
-	background: #fc4c4f;
+	background: #e21215;
 }
 
 .blue {
-	background: #4fa3fc;
+	background: #0077f5;
 }
 
 .yellow {
-	background: #ECD13F;
+	background: #ffd700;
 }
 
 .selected {
