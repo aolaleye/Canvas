@@ -1,10 +1,11 @@
-# Canvas - Drawing Application
+# Canvas
 
-__One of the new elements introduced in HTML5 was the "Canvas" element. This project combines the new HTML5 feature with jQuery mouse events to create a simple drawing application.__
+One of the new elements introduced in HTML5 was the "Canvas" element. This project combines the new HTML5 feature with jQuery mouse events to create a simple drawing application.
 
+#### Overview:
 * By clicking the 'Create New Color' button, the user can use the red, green and blue controls to create a new color.
 * Clicking the 'Add Color to Pallet' button will add the newly created color to the pallet.
 * The user can then select any of the colors from the pallet and draw on the canvas!
 
-#### > __Try it Out:__
+#### > __Click Below to Try it Out:__
 [![Canvas](img/canvas1.png)](https://aolaleye.github.io/canvas/)
